@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Real-Time Chat",
+    "imageSrc": "projects/project.png",
+    "description": "A real-time messaging platform that increased user retention through instant communication features and a user-friendly interface.",
+    "skills": [ "JavaScript", "Node","Socket.io"],
+    "demo": "https://github.com/eiva078/Real-time_Chatting_Application",
+    "source": "https://github.com/eiva078/Real-time_Chatting_Application"
+  },
+  {
+    "title": "Scientific Calculator",
+    "imageSrc": "projects/project.png",
+    "description": "Created a calculator with advanced mathematical functions and an intuitive design, improving calculation accuracy and user experience.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://github.com/eiva078/Scientific-Calculator",
+    "source": "https://github.com/eiva078/Scientific-Calculator"
+  }
+]

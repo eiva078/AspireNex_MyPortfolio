@@ -1,0 +1,34 @@
+[
+  {
+    "title": "C++",
+    "imageSrc": "Skills/C++.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "Skills/HTML5.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "Skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "Skills/Javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "Skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "Skills/Node.png"
+  },
+  {
+    "title": "Express",
+    "imageSrc": "Skills/Express.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "Skills/mongodb.png"
+  }
+]
