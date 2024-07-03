@@ -1,4 +1,4 @@
-# React
+# My Portfolio
 
 Open your browser and navigate to [https://eiva-portfolio.netlify.app/](https://eiva-portfolio.netlify.app/).
 
